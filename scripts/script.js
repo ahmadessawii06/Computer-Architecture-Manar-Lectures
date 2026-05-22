@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const totalLecturesBadge = document.getElementById('total-lectures');
 
     // Fetch and render data
-    fetch('../data.json')
+    fetch('../data/data.json')
         .then(res => res.json())
         .then(data => {
             if (totalLecturesBadge) {
