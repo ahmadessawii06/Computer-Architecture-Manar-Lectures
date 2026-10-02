@@ -94,21 +94,26 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 3rem;
-  height: 3rem;
+  width: 1.8rem;
+  height: 1.8rem;
   background-color: var(--primary);
   color: #fff;
-  border: none;
-  border-radius: 9999px;
+  border: var(--card-border);
+  border-radius: var(--radius);
   cursor: pointer;
-  box-shadow: 0 4px 16px rgba(0, 93, 164, 0.35);
-  transition: transform var(--transition-base), box-shadow var(--transition-base);
+  margin-right: 8px;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
   font-size: 1rem;
 }
 
 .nav-btn:hover {
-  transform: scale(1.1);
-  box-shadow: 0 6px 20px rgba(0, 93, 164, 0.45);
+  transform: translate(2px, 2px);
+  box-shadow: 1px 1px 0 #000;
+}
+
+.nav-btn:active {
+  transform: translate(3px, 3px);
+  box-shadow: 0 0 0 #000;
 }
 
 .hero-section {
@@ -438,12 +443,17 @@ body {
 }
 
 .watch-btn--holiday {
-  background-color: #f59e0b;
-  cursor: pointer;
+background-color: #f59e0b;
+
 }
 
 .watch-btn--holiday:hover {
-  background-color: #d97706;
+  background-color: #f59e0b;
+}
+
+div.watch-btn--holiday {
+  cursor: default;
+  pointer-events: none;
 }
 
 .bottom-spacer {
@@ -503,30 +513,4 @@ body {
     bottom: 1rem;
     right: 1rem;
   }
-}
-
-.nav-btn {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 1.8rem;
-  height: 1.8rem;
-  background-color: var(--primary);
-  color: #fff;
-  border: var(--card-border);
-  border-radius: var(--radius);
-  cursor: pointer;
-  margin-right: 8px;
-  transition: transform 0.15s ease, box-shadow 0.15s ease;
-  font-size: 1rem;
-}
-
-.nav-btn:hover {
-  transform: translate(2px, 2px);
-  box-shadow: 1px 1px 0 #000;
-}
-
-.nav-btn:active {
-  transform: translate(3px, 3px);
-  box-shadow: 0 0 0 #000;
 }
