@@ -55,10 +55,13 @@ document.addEventListener('DOMContentLoaded', () => {
     HOLIDAY_WORDS.some((word) => lecture.title.toLowerCase().includes(word));
 
   function holidayCard(lecture) {
-    const isAlert = lecture.link?.startsWith('javascript:');
-    const onclick = isAlert
-      ? lecture.link.replace('javascript:', '')
-      : "alert('No lecture today!')";
+    const action = lecture.link
+      ? `<a class="watch-btn watch-btn--holiday" href="${lecture.link}" target="_blank" rel="noopener">
+           <i class="fa-solid fa-circle-play"></i> Watch Now
+         </a>`
+      : `<div class="watch-btn watch-btn--holiday">
+           <i class="fa-solid fa-face-smile-wink"></i> No Lecture!
+         </div>`;
 
     return `
       <div class="lecture-card lecture-card--holiday">
@@ -72,11 +75,7 @@ document.addEventListener('DOMContentLoaded', () => {
             <div class="meta-item date"><i class="fa-solid fa-calendar-days"></i> ${lecture.date === '0000/00/00' ? 'Holiday' : lecture.date}</div>
           </div>
         </div>
-        <div class="watch-btn-wrap">
-          <button class="watch-btn watch-btn--holiday" onclick="${onclick}">
-            <i class="fa-solid fa-face-smile-wink"></i> No Lecture!
-          </button>
-        </div>
+        <div class="watch-btn-wrap">${action}</div>
       </div>`;
   }
 
@@ -85,9 +84,7 @@ document.addEventListener('DOMContentLoaded', () => {
       ? `<a class="watch-btn" href="${lecture.link}" target="_blank" rel="noopener">
            <i class="fa-solid fa-circle-play"></i> Watch Now
          </a>`
-      : `<button class="watch-btn" style="opacity:0.5; cursor:not-allowed;" onclick="alert('Link not available for this lecture yet.')">
-           <i class="fa-solid fa-circle-play"></i> Not Available
-         </button>`;
+      : '';
 
     return `
       <div class="lecture-card">
