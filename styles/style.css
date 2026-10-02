@@ -504,3 +504,29 @@ body {
     right: 1rem;
   }
 }
+
+.nav-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.8rem;
+  height: 1.8rem;
+  background-color: var(--primary);
+  color: #fff;
+  border: var(--card-border);
+  border-radius: var(--radius);
+  cursor: pointer;
+  margin-right: 8px;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  font-size: 1rem;
+}
+
+.nav-btn:hover {
+  transform: translate(2px, 2px);
+  box-shadow: 1px 1px 0 #000;
+}
+
+.nav-btn:active {
+  transform: translate(3px, 3px);
+  box-shadow: 0 0 0 #000;
+}
