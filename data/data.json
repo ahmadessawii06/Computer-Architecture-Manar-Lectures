@@ -1,338 +1,338 @@
 [
    {
-      "lecture_number":"1",
-      "title":"Ch.1 - Introduction and Classification of Computer Types.",
-      "slides_numbers":"Ch.1 - [01-11]",
-      "date":"2026/02/01",
-      "link":"https://najah.zoom.us/rec/play/GfRD2BpArrAHPQdJnYrCzrjUK5zfJncgfAlypPZPtYNHvFa5BdUwPCfTCwzO-IZPhB2diYwh8nHv2JBB._tvjTxFXQPG_NWU5?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2Fwz7ppWCzhadLAfWqB0NgzbDre_p0S83NUaVOPDKaPhJCIkp1hOk0Jp_pMUTOyfF3.BssQDh1JK9hMOQKY"
+      "lecture_number": "1",
+      "title": "Ch.1 - Introduction and Classification of Computer Types",
+      "slides_numbers": "Ch.1 - [01-11]",
+      "date": "2026/02/01",
+      "link": "https://najah.zoom.us/rec/play/GfRD2BpArrAHPQdJnYrCzrjUK5zfJncgfAlypPZPtYNHvFa5BdUwPCfTCwzO-IZPhB2diYwh8nHv2JBB._tvjTxFXQPG_NWU5?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2Fwz7ppWCzhadLAfWqB0NgzbDre_p0S83NUaVOPDKaPhJCIkp1hOk0Jp_pMUTOyfF3.BssQDh1JK9hMOQKY"
    },
    {
-      "lecture_number":"2",
-      "title":"Ch.1 - Inside Performance & CPU & Program.",
-      "slides_numbers":"Ch.1 - [11-19]",
-      "date":"2026/02/03",
-      "link":"https://najah.zoom.us/rec/play/o3yWoJrimqhegE6xuwbszz0QtoniVXr4now9alUUy-lgzXQKAwiO3PRS1aZWsJvlFzZsFdhOzt7RJIYU.kRk7kt2zMrj9Kq3h?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FWLuLM8aSYPJklnoFamJQBcuTLC19bYhHA7GygtjbUqprRf8cuz7cayArJ_iYJiq4.bhJSrQauvtN6yrds"
+      "lecture_number": "2",
+      "title": "Ch.1 - Inside Performance CPU Program",
+      "slides_numbers": "Ch.1 - [11-19]",
+      "date": "2026/02/03",
+      "link": "https://najah.zoom.us/rec/play/o3yWoJrimqhegE6xuwbszz0QtoniVXr4now9alUUy-lgzXQKAwiO3PRS1aZWsJvlFzZsFdhOzt7RJIYU.kRk7kt2zMrj9Kq3h?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FWLuLM8aSYPJklnoFamJQBcuTLC19bYhHA7GygtjbUqprRf8cuz7cayArJ_iYJiq4.bhJSrQauvtN6yrds"
    },
    {
-      "lecture_number":"3",
-      "title":"Ch.1 - CPU Revision & Abstraction & ISA & Response Time & Thoughput.",
-      "slides_numbers":"Ch.1 - [19-30]",
-      "date":"2026/02/05",
-      "link":"https://najah.zoom.us/rec/play/3jXw7Ehg_QDBxraBDWLjOCqPCF1aC5wIGF6FmDEJTQ6pjBNnHGGhL2oBWCleQxU82yvwlb-wXa_9fDw.IgLRqjjMVmUzVNJb?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FKtmvfsuPfOyfVvvc22kJ0KFVx3WgEfaDLLp_Iss5OOZGiY35uiklRkJdOpiMyz5h.Nno6ZPW_BU2Ginvz"
+      "lecture_number": "3",
+      "title": "Ch.1 - CPU Revision + Abstraction + ISA + Response Time + Throughput",
+      "slides_numbers": "Ch.1 - [19-30]",
+      "date": "2026/02/05",
+      "link": "https://najah.zoom.us/rec/play/3jXw7Ehg_QDBxraBDWLjOCqPCF1aC5wIGF6FmDEJTQ6pjBNnHGGhL2oBWCleQxU82yvwlb-wXa_9fDw.IgLRqjjMVmUzVNJb?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FKtmvfsuPfOyfVvvc22kJ0KFVx3WgEfaDLLp_Iss5OOZGiY35uiklRkJdOpiMyz5h.Nno6ZPW_BU2Ginvz"
    },
    {
-      "lecture_number":"4",
-      "title":"Ch.1 - Elapsed Time & CPU Time & How To Calculate CPU And CPI Time.",
-      "slides_numbers":"Ch.1 - [30-39]",
-      "date":"2026/02/08",
-      "link":"https://najah.zoom.us/rec/play/bzDU8W0QXaruNijSZIWxj4ewql41_A_-0L2Cs267IqLYPOv7iWZzJ5d7B39LCTwwDqeHznGOe0_C4rmQ.j3aZdtuCGD9DyTbR?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FPuLQieLHSCvcV8d7kGTUGmA12R9bma1NdIt0k2HAR1B2to9OMLtG0BK2nlkdBmfO.sg6rl0Eqf4Rq-F1-"
+      "lecture_number": "4",
+      "title": "Ch.1 - Elapsed Time + CPU Time + How To Calculate CPU And CPI Time",
+      "slides_numbers": "Ch.1 - [30-39]",
+      "date": "2026/02/08",
+      "link": "https://najah.zoom.us/rec/play/bzDU8W0QXaruNijSZIWxj4ewql41_A_-0L2Cs267IqLYPOv7iWZzJ5d7B39LCTwwDqeHznGOe0_C4rmQ.j3aZdtuCGD9DyTbR?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FPuLQieLHSCvcV8d7kGTUGmA12R9bma1NdIt0k2HAR1B2to9OMLtG0BK2nlkdBmfO.sg6rl0Eqf4Rq-F1-"
    },
    {
-      "lecture_number":"5",
-      "title":"Ch.1 - Revision & Average CPI & Comparing Two CPUs.",
-      "slides_numbers":"Ch.1 - [39-48]",
-      "date":"2026/02/10",
-      "link":"https://najah.zoom.us/rec/play/fRqR-m_IBUgAPd0Kw21evCC-vYLPzYZm_LL4OkPW2hI67S5_ht8LPMkC9IjVulfPqip5WQMFgOLTGCHQ.bLkIuIuVHh_E-m9o?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FIuxG3aOlVbC1n8AHRCNkx1YwsSFjlLApTxeHcdBgkrfH5vs4ahdx9xvDO642UWZ2.H88kPBXFaOWvXZUT"
+      "lecture_number": "5",
+      "title": "Ch.1 - Revision + Average CPI + Comparing Two CPUs",
+      "slides_numbers": "Ch.1 - [39-48]",
+      "date": "2026/02/10",
+      "link": "https://najah.zoom.us/rec/play/fRqR-m_IBUgAPd0Kw21evCC-vYLPzYZm_LL4OkPW2hI67S5_ht8LPMkC9IjVulfPqip5WQMFgOLTGCHQ.bLkIuIuVHh_E-m9o?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FIuxG3aOlVbC1n8AHRCNkx1YwsSFjlLApTxeHcdBgkrfH5vs4ahdx9xvDO642UWZ2.H88kPBXFaOWvXZUT"
    },
    {
-      "lecture_number":"6",
-      "title":"Ch.1 - MIPS & MFLOPS & Amdahl's Law & Ch.2 - ISA & CPUs Family.",
-      "slides_numbers":"Ch.1 [48-53] & Ch.2 - Part-1 [01-05]",
-      "date":"2026/02/12",
-      "link":"https://najah.zoom.us/rec/play/hhF7MR1wjtJD8PKL6ceDbmpZnez7QFYa38P711ML6TrHVnofDT_wdVGyDQN-go4UcYzlK45J2IcxGPo.zB_BQ4HvBJCQHQxV?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2Fq4QwCrrdZE7TO4TrcwT4f8arn5dNdcwH7s7dfz5ksFOGZUxQtPoRc_jLr79tA4k1.iTciWfMJg0xVCAXp"
+      "lecture_number": "6",
+      "title": "Ch.1 - MIPS + MFLOPS + Amdahl's Law + Ch.2 - ISA + CPU Family",
+      "slides_numbers": "Ch.1 [48-53] & Ch.2 - Part-1 [01-05]",
+      "date": "2026/02/12",
+      "link": "https://najah.zoom.us/rec/play/hhF7MR1wjtJD8PKL6ceDbmpZnez7QFYa38P711ML6TrHVnofDT_wdVGyDQN-go4UcYzlK45J2IcxGPo.zB_BQ4HvBJCQHQxV?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2Fq4QwCrrdZE7TO4TrcwT4f8arn5dNdcwH7s7dfz5ksFOGZUxQtPoRc_jLr79tA4k1.iTciWfMJg0xVCAXp"
    },
    {
-      "lecture_number":"7",
-      "title":"Ch.2 - Intro to MIPS ISA & MIPS Architecture & MIPS32 vs. MIPS64 & MIPS Registers.",
-      "slides_numbers":"Ch.2 - Part-1 - [06-19]",
-      "date":"2026/02/15",
-      "link":"https://najah.zoom.us/rec/play/uVJ9iJNVp2nSGagb1v3EZZ4Lew-NrRZlaT8sHtUQDmXMjmXo1eeIdY7XMTN74w_Mh1c1CBbk2MzOfXGD.0hSRS5MqKGM5WW-P?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FzTXMyXu61bybqk65nXEyLOgXwgC9D5o8zC5kyvjaJu9-cda02Kcmhdicot4y_hsL.-NXRqTTY2G1vM5y5"
+      "lecture_number": "7",
+      "title": "Ch.2 - Intro to MIPS ISA + MIPS Architecture + MIPS32 vs. MIPS64 + MIPS Registers",
+      "slides_numbers": "Ch.2 - Part-1 - [06-19]",
+      "date": "2026/02/15",
+      "link": "https://najah.zoom.us/rec/play/uVJ9iJNVp2nSGagb1v3EZZ4Lew-NrRZlaT8sHtUQDmXMjmXo1eeIdY7XMTN74w_Mh1c1CBbk2MzOfXGD.0hSRS5MqKGM5WW-P?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FzTXMyXu61bybqk65nXEyLOgXwgC9D5o8zC5kyvjaJu9-cda02Kcmhdicot4y_hsL.-NXRqTTY2G1vM5y5"
    },
    {
-      "lecture_number":"8",
-      "title":"Ch.2 - Register Organization in MIPS32 & Memory Model & How To Convert From Hex To Binary.",
-      "slides_numbers":"Ch.2 - Part-1 - [19-23]",
-      "date":"2026/02/17",
-      "link":"https://najah.zoom.us/rec/play/PYUtSGe0kkSiKjUUgijXF6F9JmnLzKe70iQ0m2hCq9eT_sEnLrXKO1OnsYCMcN6-w1PcPd-1ZeQjfwAP.HoCn-nZIHOCsUjjE?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FSkO-HssUwn51Y03EZVSeDVdVT4Zhj2tgEYCf0kO2wB5iZwHn-ueg6FSje_3go4Iy.VhoG-SXZlh7zI9GH"
+      "lecture_number": "8",
+      "title": "Ch.2 - Register Organization in MIPS32 + Memory Model + How To Convert From Hex To Binary",
+      "slides_numbers": "Ch.2 - Part-1 - [19-23]",
+      "date": "2026/02/17",
+      "link": "https://najah.zoom.us/rec/play/PYUtSGe0kkSiKjUUgijXF6F9JmnLzKe70iQ0m2hCq9eT_sEnLrXKO1OnsYCMcN6-w1PcPd-1ZeQjfwAP.HoCn-nZIHOCsUjjE?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FSkO-HssUwn51Y03EZVSeDVdVT4Zhj2tgEYCf0kO2wB5iZwHn-ueg6FSje_3go4Iy.VhoG-SXZlh7zI9GH"
    },
    {
-      "lecture_number":"9",
-      "title":"Ch.2 - Alignment & Endianness & Addressing Space & Memory Segments.",
-      "slides_numbers":"Ch.2 - Part-1 - [23-28]",
-      "date":"2026/02/19",
-      "link":"https://najah.zoom.us/rec/share/EWtxaQl47vFS-n91aAefjAqLAa1hDDDWlguC_Cau7fTOlAWNnsmpcTJSIBTc_ON7.Ohsv5HBrKB-XBucG"
+      "lecture_number": "9",
+      "title": "Ch.2 - Alignment + Endianness + Addressing Space + Memory Segments",
+      "slides_numbers": "Ch.2 - Part-1 - [23-28]",
+      "date": "2026/02/19",
+      "link": "https://najah.zoom.us/rec/share/EWtxaQl47vFS-n91aAefjAqLAa1hDDDWlguC_Cau7fTOlAWNnsmpcTJSIBTc_ON7.Ohsv5HBrKB-XBucG"
    },
    {
-      "lecture_number":"10",
-      "title":"Ch.2 - Logic & Arithmetic & Immediate Registers & Data Transfer & Control Flow & MIPS Data Types.",
-      "slides_numbers":"Ch.2 - Part-1 - [28-38]",
-      "date":"2026/02/21",
-      "link":"https://najah.zoom.us/rec/play/6N7M7UMplXyJB-FkR2_sWkWknWNJVvNCbrKpozJuAscfJvH3pOvfnFZtBzHx3pFm-CDes6Qcsu76T3fY.f6XOxz3K97UhYRDF?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FYtA6gQ2eWo1dOe48OM6Xwj2wd_fPwF99WJdINB5TH7NZaXqp5n3aBJ00cwjzQBmI.LjWiQ7a5YlnqqL5X"
+      "lecture_number": "10",
+      "title": "Ch.2 - Logic + Arithmetic + Immediate Registers + Data Transfer + Control Flow + MIPS Data Types",
+      "slides_numbers": "Ch.2 - Part-1 - [28-38]",
+      "date": "2026/02/21",
+      "link": "https://najah.zoom.us/rec/play/6N7M7UMplXyJB-FkR2_sWkWknWNJVvNCbrKpozJuAscfJvH3pOvfnFZtBzHx3pFm-CDes6Qcsu76T3fY.f6XOxz3K97UhYRDF?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FYtA6gQ2eWo1dOe48OM6Xwj2wd_fPwF99WJdINB5TH7NZaXqp5n3aBJ00cwjzQBmI.LjWiQ7a5YlnqqL5X"
    },
    {
-      "lecture_number":"11",
-      "title":"Review-Number-Systems-Complemnts - Binary to Decimal & Decimal to Binary & Binary To Hex & Hex To Binary & 1's Complement & 2's Complement & Signed Numbers.",
-      "slides_numbers":"Review-Number-Systems-Complemnts - [00-12]",
-      "date":"2026/02/24",
-      "link":"https://najah.zoom.us/rec/play/NytgXq0gAEw25dwLAEfZTB47LMRWNqCYtTdE4THHleeKjuyeCVqTXhlMlw-ANQw-aBBBe_o3O9Hl2hRV.vmk9-4USkqBi3l1T?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FHFEnOxLq_4U2PTaA5fTRi6fI2nLI3ALBNFS5bNDaiXny1K3i1oXMZWcKaOLR4-C8.WJ9e_CrQoh-mqhI1"
+      "lecture_number": "11",
+      "title": "Review - Number Systems + Binary + Decimal + Hex & Complements",
+      "slides_numbers": "Review-Number-Systems-Complemnts - [00-12]",
+      "date": "2026/02/24",
+      "link": "https://najah.zoom.us/rec/play/NytgXq0gAEw25dwLAEfZTB47LMRWNqCYtTdE4THHleeKjuyeCVqTXhlMlw-ANQw-aBBBe_o3O9Hl2hRV.vmk9-4USkqBi3l1T?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FHFEnOxLq_4U2PTaA5fTRi6fI2nLI3ALBNFS5bNDaiXny1K3i1oXMZWcKaOLR4-C8.WJ9e_CrQoh-mqhI1"
    },
    {
-      "lecture_number":"12",
-      "title":"Ch.2 - Revison Conversion & MIPS Formats & R-Format.",
-      "slides_numbers":"Ch.2 - Part-1 - [39-50]",
-      "date":"2026/02/26",
-      "link":"https://najah.zoom.us/rec/play/zGdRW-s50_PKcw8V3ZGYmWqiIV59_hW7c4o48ypS1x8xdDU9_1fDRCxzgCVz9RTvbjcmV6Z4EtG3FVzc.AC8TYtMAIA9w4Ohq?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FaMJZ6WHaZUo7dKizDPQ1N1bHWMrwt632GwCduXf0vjlvGBGE2dAo0QYdtmT0dYfz.cJo4AKVBYvEYEABo"
+      "lecture_number": "12",
+      "title": "Ch.2 - Revision Conversion + MIPS Formats + R-Format",
+      "slides_numbers": "Ch.2 - Part-1 - [39-50]",
+      "date": "2026/02/26",
+      "link": "https://najah.zoom.us/rec/play/zGdRW-s50_PKcw8V3ZGYmWqiIV59_hW7c4o48ypS1x8xdDU9_1fDRCxzgCVz9RTvbjcmV6Z4EtG3FVzc.AC8TYtMAIA9w4Ohq?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FaMJZ6WHaZUo7dKizDPQ1N1bHWMrwt632GwCduXf0vjlvGBGE2dAo0QYdtmT0dYfz.cJo4AKVBYvEYEABo"
    },
    {
-      "lecture_number":"13",
-      "title":"Ch.2 - I-Format & J-Foramt & MIPS Addressing Modes.",
-      "slides_numbers":"Ch.2 - Part-1 - [51-63]",
-      "date":"2026/03/01",
-      "link":"https://najah.zoom.us/rec/play/gtmsqC7EKrLCoDqBUDdL6xwULBhqqm_d844UEzOTez8BkkY0jJ0wo4_-n6-0P_1J9RXXN5SkAWgjbH2_.ts4DzbFvLgKDaAiE?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FluuVqZGNwXS_Wj-il-vSow51pFeISDAfb7JUVacgEuszQHLZDKrXNGYXPB9GZ48n.SBMTorypBDNVWDHa"
+      "lecture_number": "13",
+      "title": "Ch.2 - I-Format + J-Format + MIPS Addressing Modes",
+      "slides_numbers": "Ch.2 - Part-1 - [51-63]",
+      "date": "2026/03/01",
+      "link": "https://najah.zoom.us/rec/play/gtmsqC7EKrLCoDqBUDdL6xwULBhqqm_d844UEzOTez8BkkY0jJ0wo4_-n6-0P_1J9RXXN5SkAWgjbH2_.ts4DzbFvLgKDaAiE?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FluuVqZGNwXS_Wj-il-vSow51pFeISDAfb7JUVacgEuszQHLZDKrXNGYXPB9GZ48n.SBMTorypBDNVWDHa"
    },
    {
-      "lecture_number":"14",
-      "title":"Ch.2 - How To Convert C Code Into MIPS32 Instructions & If & Loop & While & Save[i] & Procedure Calling (Caller + Callee).",
-      "slides_numbers":"Ch.2 - Part-2 - [00-11]",
-      "date":"2026/03/03",
-      "link":"https://najah.zoom.us/rec/play/8B_tJDCrAqCl7fAt0-afMpXc3VXDfNkCcojHemwfbPBMJFGfBxXqLAHl5Fv-GdYSPPkG4DWbUhwNnVjz.vuVkASbAcG1krZkd?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FjlowLqxLGALGrCLA7TxCg7C_XBzVwL5v8EWfmXDR3LlD74coF1oOfcB6gGVNTCMN.OkkcQrsVzTBF4UHk"
+      "lecture_number": "14",
+      "title": "Ch.2 - C to MIPS32 + If + Loops + Procedures & Caller/Callee",
+      "slides_numbers": "Ch.2 - Part-2 - [00-11]",
+      "date": "2026/03/03",
+      "link": "https://najah.zoom.us/rec/play/8B_tJDCrAqCl7fAt0-afMpXc3VXDfNkCcojHemwfbPBMJFGfBxXqLAHl5Fv-GdYSPPkG4DWbUhwNnVjz.vuVkASbAcG1krZkd?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FjlowLqxLGALGrCLA7TxCg7C_XBzVwL5v8EWfmXDR3LlD74coF1oOfcB6gGVNTCMN.OkkcQrsVzTBF4UHk"
    },
    {
-      "lecture_number":"15",
-      "title":"Ch.2 - Procedure Calling & Leaf_Example & Stack Pointer ($sp).",
-      "slides_numbers":"Ch.2 - Part-2 - [12-18]",
-      "date":"2026/03/05",
-      "link":"https://najah.zoom.us/rec/share/FTT7-SxhS1O2tPiFkdNgMEkbq4tV78wwVcVoCs2LqoqsFaBZEyuD6RtTZZjHx3I.CEyQjNcAWjTjyygk"
+      "lecture_number": "15",
+      "title": "Ch.2 - Procedure Calling Leaf_Example + Stack Pointer sp_",
+      "slides_numbers": "Ch.2 - Part-2 - [12-18]",
+      "date": "2026/03/05",
+      "link": "https://najah.zoom.us/rec/share/FTT7-SxhS1O2tPiFkdNgMEkbq4tV78wwVcVoCs2LqoqsFaBZEyuD6RtTZZjHx3I.CEyQjNcAWjTjyygk"
    },
    {
-      "lecture_number":"16",
-      "title":"No Lecture Because Woaman's Day",
-      "slides_numbers":"[00-00]",
-      "date":"0000/00/00",
-      "link":"javascript:alert('منقولك فش محاضرة عشان يوم المرأه بدك تدرس لويش؟؟')"
+      "lecture_number": "16",
+      "title": "No Lecture Because of Women's Day",
+      "slides_numbers": "[00-00]",
+      "date": "0000/00/00",
+      "link": "javascript:alert('منقولك فش محاضرة عشان يوم المرأه بدك تدرس لويش؟؟')"
    },
    {
-      "lecture_number":"17",
-      "title":"Ch.2 - String Copy (strcpy) & Swap Function (Swap) + QtSpim Simulator",
-      "slides_numbers":"Ch.2 - Part-2 - [19-22] + QtSpim Simulator [01-08]",
-      "date":"2026/03/10",
-      "link":"https://najah.zoom.us/rec/play/kiFkYznGKmsdDxcoei1L1YNcHJJx-ULC1GqDzpqzPyzFWLDQAE-lyjbt0wpEH_z_A-RxjeX3Tzu8Dqk_.E9TVZp7SDyAquZbo?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FV73fklgG2i3cf1RKyjOP662Rzx-jleZ5NojGdh__fXHsu-wSfEOl82kVulpkKMOL.WN3aLTNklIljhnV-"
+      "lecture_number": "17",
+      "title": "Ch.2 - String Copy strcpy + Swap Function + Swap + QtSpim Simulator",
+      "slides_numbers": "Ch.2 - Part-2 - [19-22] + QtSpim Simulator [01-08]",
+      "date": "2026/03/10",
+      "link": "https://najah.zoom.us/rec/play/kiFkYznGKmsdDxcoei1L1YNcHJJx-ULC1GqDzpqzPyzFWLDQAE-lyjbt0wpEH_z_A-RxjeX3Tzu8Dqk_.E9TVZp7SDyAquZbo?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FV73fklgG2i3cf1RKyjOP662Rzx-jleZ5NojGdh__fXHsu-wSfEOl82kVulpkKMOL.WN3aLTNklIljhnV-"
    },
    {
-      "lecture_number":"18",
-      "title":"MIPS Tutorial - Assembly Code Structure + MIPS Instrctuion",
-      "slides_numbers":"MIPS Tutorial - [00-25]",
-      "date":"2026/03/12",
-      "link":"https://najah.zoom.us/rec/play/YdCR3bmHLlInYoe3u0cFEiDuhWW-Ke9Nfn2mhsEAFkyGK0IOgibTCzFK_QC9U3wUqLEuLrtlQUoJZqQh._PDwgF5DesIjWc7N?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.ppppppus%2Frec%2Fshare%2F9H8phpC5sULH4APTWKV70lMn8j2HZazSu2IL2yX9CIF3UEuHDIvY0VbCNIcrCRj9.FjQfO_SlhB8Pz7DN"
+      "lecture_number": "18",
+      "title": "MIPS Tutorial - Assembly Code Structure + MIPS Instruction",
+      "slides_numbers": "MIPS Tutorial - [00-25]",
+      "date": "2026/03/12",
+      "link": "https://najah.zoom.us/rec/play/YdCR3bmHLlInYoe3u0cFEiDuhWW-Ke9Nfn2mhsEAFkyGK0IOgibTCzFK_QC9U3wUqLEuLrtlQUoJZqQh._PDwgF5DesIjWc7N?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.ppppppus%2Frec%2Fshare%2F9H8phpC5sULH4APTWKV70lMn8j2HZazSu2IL2yX9CIF3UEuHDIvY0VbCNIcrCRj9.FjQfO_SlhB8Pz7DN"
    },
    {
-      "lecture_number":"19",
-      "title":"MIPS Tutorial - Assembly Coding Part-1 [Print Integer, Read Integer, Exit Program,Print String]",
-      "slides_numbers":"MIPS Tutorial - [26-43]",
-      "date":"2026/03/15",
-      "link":"https://najah.zoom.us/rec/play/5AJQ4M0tOioNckPcHxyRwI2VVGRGLvnFI7NdNBQs8Rmd-boeFtczXSbYUW-jjgMJ0LNr0l0GCJlbaxoE.ZXIXmgyu8TIvSV6B?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2F_eEvZqRG834aJjzNv8GfUPkGJDHwvrthCuWr99Oq_dSdWthU4XAhgUstmIzhe-gB.0-JJe8yLPaL2seBE"
+      "lecture_number": "19",
+      "title": "MIPS Tutorial P1 - Assembly Coding P1 + Print/Read Integer + Print String + Exit",
+      "slides_numbers": "MIPS Tutorial - [26-43]",
+      "date": "2026/03/15",
+      "link": "https://najah.zoom.us/rec/play/5AJQ4M0tOioNckPcHxyRwI2VVGRGLvnFI7NdNBQs8Rmd-boeFtczXSbYUW-jjgMJ0LNr0l0GCJlbaxoE.ZXIXmgyu8TIvSV6B?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2F_eEvZqRG834aJjzNv8GfUPkGJDHwvrthCuWr99Oq_dSdWthU4XAhgUstmIzhe-gB.0-JJe8yLPaL2seBE"
    },
    {
-      "lecture_number":"20",
-      "title":"MIPS Tutorial - Assembly Coding Part-2 [Assembly Loop + Assembly Functions] + Ch.3 - MIPS Addition + MIPS Subtraction + MIPS OverFlow.",
-      "slides_numbers":"MIPS Tutorial - [43-45] + Ch.3 [00-03]",
-      "date":"2026/03/17",
-      "link":"https://najah.zoom.us/rec/play/SGFImU-TjoQiILkEk8QT0HmcXhSX0BUXq_cSihu46U4HBL46Va29_5T7ONdadDcwqGFgn0Get5_zHNQw.tcchMEA0Ntb4MvMt?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2Ftp-5OOnoT3-Ibnsal7FIUclnLLOUGVwII_g46Uv2spLiPU1aBFs3qF4Vbct_QuSl.JnXrL3D_eptKGI4G"
+      "lecture_number": "20",
+      "title": "MIPS Tutorial P2 - Assembly Coding P2 + Loops + Functions + Addition + Subtraction & Overflow",
+      "slides_numbers": "MIPS Tutorial - [43-45] + Ch.3 [00-03]",
+      "date": "2026/03/17",
+      "link": "https://najah.zoom.us/rec/play/SGFImU-TjoQiILkEk8QT0HmcXhSX0BUXq_cSihu46U4HBL46Va29_5T7ONdadDcwqGFgn0Get5_zHNQw.tcchMEA0Ntb4MvMt?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2Ftp-5OOnoT3-Ibnsal7FIUclnLLOUGVwII_g46Uv2spLiPU1aBFs3qF4Vbct_QuSl.JnXrL3D_eptKGI4G"
    },
    {
-      "lecture_number":"21",
-      "title":"No Lecture Because Eid al-Fitr Holiday",
-      "slides_numbers":"[00-00]",
-      "date":"2026/03/19",
-      "link":""
+      "lecture_number": "21",
+      "title": "No Lecture Because of Eid Al-Fitr Holiday",
+      "slides_numbers": "[00-00]",
+      "date": "2026/03/19",
+      "link": ""
    },
    {
-      "lecture_number":"22",
-      "title":"No Lecture Because Eid al-Fitr Holiday",
-      "slides_numbers":"[00-00]",
-      "date":"2026/03/22",
-      "link":""
+      "lecture_number": "22",
+      "title": "No Lecture Because of Eid Al-Fitr Holiday",
+      "slides_numbers": "[00-00]",
+      "date": "2026/03/22",
+      "link": ""
    },
    {
-      "lecture_number":"23",
-      "title":"Ch.3 - MIPS Overflow + Integer",
-      "slides_numbers":"[01-18]",
-      "date":"2026/03/24",
-      "link":"https://najah.zoom.us/rec/play/vOiB_UyhXCO8pfzLX1pE72RTxnrLjGrqjgvg25JRRZtJJUgmQs_-6bp736sPpFT5K9lD2RbtqOn29qK6.3kIfojXTUlzfhY7P?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FihdIuHvrGskmnwhX5sWYhgi_iyuXx1eV3sXj3mtltY8EsXruhg-3mKCYT5WTi_FM.Arzn6kqNfvuF4mJB"
+      "lecture_number": "23",
+      "title": "Ch.3 - MIPS Overflow Integer",
+      "slides_numbers": "[01-18]",
+      "date": "2026/03/24",
+      "link": "https://najah.zoom.us/rec/play/vOiB_UyhXCO8pfzLX1pE72RTxnrLjGrqjgvg25JRRZtJJUgmQs_-6bp736sPpFT5K9lD2RbtqOn29qK6.3kIfojXTUlzfhY7P?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FihdIuHvrGskmnwhX5sWYhgi_iyuXx1eV3sXj3mtltY8EsXruhg-3mKCYT5WTi_FM.Arzn6kqNfvuF4mJB"
    },
    {
-      "lecture_number":"24",
-      "title":"Ch.3 - Multiplication 5 * 3",
-      "slides_numbers":"Ch.3 - [19-21]",
-      "date":"2026/03/26",
-      "link":"https://najah.zoom.us/rec/play/3SIXcifqfRrPzBs_g8PUaPER2RTeemlE4u6mpgg4y9fDnHUScUGaK7t76TYGjK_mme8MAN-0g6Yw3hoY.o_ZvmIYKVxEypWs_?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FEjbt4yAAmiSxEOq72pdHuaNhR8VDGI0AxlVpLkIwi9ChxVLS_gAvZsxvnDsGhi8D.rfNUQRaqFkPM5crh"
+      "lecture_number": "24",
+      "title": "Ch.3 - Multiplication 5*3",
+      "slides_numbers": "Ch.3 - [19-21]",
+      "date": "2026/03/26",
+      "link": "https://najah.zoom.us/rec/play/3SIXcifqfRrPzBs_g8PUaPER2RTeemlE4u6mpgg4y9fDnHUScUGaK7t76TYGjK_mme8MAN-0g6Yw3hoY.o_ZvmIYKVxEypWs_?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FEjbt4yAAmiSxEOq72pdHuaNhR8VDGI0AxlVpLkIwi9ChxVLS_gAvZsxvnDsGhi8D.rfNUQRaqFkPM5crh"
    },
    {
-      "lecture_number":"25",
-      "title":"Ch.3 - Division -13 / 3",
-      "slides_numbers":"Ch.3 - [22-28]",
-      "date":"2026/03/29",
-      "link":"https://najah.zoom.us/rec/play/fXBdhfHMfXt-aFgd44zrx0blCOce5Ew-ZOjHWyPEFO6VdrZMi14w3MfRoqwhorxViMCTjW2b2wexK016.7Q72UANrjFCvIP3p?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FdRc6wONxEtEL7Vlkf812fgCcRdKfxea6bXRwsOQxhkbtohoD_X6NUqPtMvAu5kuR.AfEXDJgreAi1iiXw"
+      "lecture_number": "25",
+      "title": "Ch.3 - Division -13/3",
+      "slides_numbers": "Ch.3 - [22-28]",
+      "date": "2026/03/29",
+      "link": "https://najah.zoom.us/rec/play/fXBdhfHMfXt-aFgd44zrx0blCOce5Ew-ZOjHWyPEFO6VdrZMi14w3MfRoqwhorxViMCTjW2b2wexK016.7Q72UANrjFCvIP3p?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FdRc6wONxEtEL7Vlkf812fgCcRdKfxea6bXRwsOQxhkbtohoD_X6NUqPtMvAu5kuR.AfEXDJgreAi1iiXw"
    },
    {
-      "lecture_number":"26",
-      "title":"Ch.3 - Floating Point Numbers + Normalization.",
-      "slides_numbers":"Ch.3 - [29-34]",
-      "date":"2026/03/31",
-      "link":"    https://najah.zoom.us/rec/play/tTkmWgiMnXaZXBIt2bHpsaewt22_lvrHa7jN-YwTwiCpfz0m_QS2jxLqEaqruu-Rc4u_MOr4F0yvSSx4.XYSZXZLWmBUuvXOI?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2F3OjsggIj8wdCsR8_PzCWocmpxZs9jFcwPTjEPRStUIiv1iQ51AFV8U7RoEvOFvvv.3ffzQxl-kkEoYZz3"
+      "lecture_number": "26",
+      "title": "Ch.3 - Floating Point Numbers Normalization",
+      "slides_numbers": "Ch.3 - [29-34]",
+      "date": "2026/03/31",
+      "link": "    https://najah.zoom.us/rec/play/tTkmWgiMnXaZXBIt2bHpsaewt22_lvrHa7jN-YwTwiCpfz0m_QS2jxLqEaqruu-Rc4u_MOr4F0yvSSx4.XYSZXZLWmBUuvXOI?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2F3OjsggIj8wdCsR8_PzCWocmpxZs9jFcwPTjEPRStUIiv1iQ51AFV8U7RoEvOFvvv.3ffzQxl-kkEoYZz3"
    },
    {
-      "lecture_number":"27",
-      "title":"Ch.3 - Floating Point Range",
-      "slides_numbers":"Ch.3 - [35-40]",
-      "date":"2026/04/02",
-      "link":" https://najah.zoom.us/rec/play/9eOqpFNZqPhS9LDfLWbTq_86yq2U3BP0FP1G6b2uFFBQBJqqXHrAgLsfdUD_k6AvnTvdOZyxdN-NYPjl.2C36FOp62peFyrPR?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FlCjvbcxSurelTB2Z2Z7YOwvls3hKPD1LQuF-x2aePOC1fXjdACA-R470A_ZUiA9M.QhUBGpD1CflXooqo"
+      "lecture_number": "27",
+      "title": "Ch.3 - Floating Point Range",
+      "slides_numbers": "Ch.3 - [35-40]",
+      "date": "2026/04/02",
+      "link": " https://najah.zoom.us/rec/play/9eOqpFNZqPhS9LDfLWbTq_86yq2U3BP0FP1G6b2uFFBQBJqqXHrAgLsfdUD_k6AvnTvdOZyxdN-NYPjl.2C36FOp62peFyrPR?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FlCjvbcxSurelTB2Z2Z7YOwvls3hKPD1LQuF-x2aePOC1fXjdACA-R470A_ZUiA9M.QhUBGpD1CflXooqo"
    },
    {
-      "lecture_number":"28",
-      "title":"Ch.3 - Floating-Point Multiplication + FP Instructions in MIPS.",
-      "slides_numbers":"Ch.3 - [46-50]",
-      "date":"2026/04/05",
-      "link":"https://najah.zoom.us/rec/play/TzKWfLDuwDyRyfLw4VQv5qiX1-P_o8vBf5et5eeC0_Aa-O2fOpA3CVkSwVaSjXtVeNxcgZJIfMP8G03p._wzVtae8a7qpLbHf?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2F3E4EjOyV9fn80zrqBBvUXz4rY3cGeW8UUEOL-4LMOwx2CshvjSUuJgfSCpM1Zs1U.Lj7uduYdEdnnSR4t"
+      "lecture_number": "28",
+      "title": "Ch.3 - Floating Point Multiplication + FP Instructions in MIPS",
+      "slides_numbers": "Ch.3 - [46-50]",
+      "date": "2026/04/05",
+      "link": "https://najah.zoom.us/rec/play/TzKWfLDuwDyRyfLw4VQv5qiX1-P_o8vBf5et5eeC0_Aa-O2fOpA3CVkSwVaSjXtVeNxcgZJIfMP8G03p._wzVtae8a7qpLbHf?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2F3E4EjOyV9fn80zrqBBvUXz4rY3cGeW8UUEOL-4LMOwx2CshvjSUuJgfSCpM1Zs1U.Lj7uduYdEdnnSR4t"
    },
    {
-      "lecture_number":"29",
-      "title":"Ch.4 - Intro To MIPS Datapath + The Five Stages of Instruction Execution in MIPS and elements on the Datapath ",
-      "slides_numbers":"Ch.4 - Datapath - [01-07]",
-      "date":"2026/04/07",
-      "link":"https://najah.zoom.us/rec/play/XIoaEdsG180GpK8V9bbfx4IzWFjjdzp5Jwaax36lZbBwRJWWZpJhdYzbF5P1lAbxBA5T9Kj9QehWUUQp.D0gWNm6GXLMiIJjc?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2Fn7Hcp8KSxmZXhLdA26F4mqjoOn9JitCXmz47YjpgVdRfpsaCuI783MnCtFbXNOyT.aI6mTfM1vi1AwpZO"
+      "lecture_number": "29",
+      "title": "Ch.4 - MIPS Datapath + Five Stages of Instruction Execution + Datapath Elements",
+      "slides_numbers": "Ch.4 - Datapath - [01-07]",
+      "date": "2026/04/07",
+      "link": "https://najah.zoom.us/rec/play/XIoaEdsG180GpK8V9bbfx4IzWFjjdzp5Jwaax36lZbBwRJWWZpJhdYzbF5P1lAbxBA5T9Kj9QehWUUQp.D0gWNm6GXLMiIJjc?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2Fn7Hcp8KSxmZXhLdA26F4mqjoOn9JitCXmz47YjpgVdRfpsaCuI783MnCtFbXNOyT.aI6mTfM1vi1AwpZO"
    },
    {
-      "lecture_number":"30",
-      "title":"Ch.4 - Instruction Fetch (IF) + Instruction Decode (ID)",
-      "slides_numbers":"Ch.4 - Datapath - [08-15]",
-      "date":"2026/04/09",
-      "link":"https://najah.zoom.us/rec/play/cDJgTrT7xUb_RcUBvHLz_C2-yT75QAeAq7xpX-yxs93MtHmKyzVFfSx1KYaJOrplpHXr2zhk0wcnZ-YJ.CJAz84-B5zDhZzig?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FNTdNqwS71Xk2E6Mo4MLzlxKrXyrIZzm_Q1KC10M4TznHOPbxcqQB_q4enstbm141.JMjRH5bpHu7cHlcR"
+      "lecture_number": "30",
+      "title": "Ch.4 - Instruction Fetch IF + Instruction Decode ID",
+      "slides_numbers": "Ch.4 - Datapath - [08-15]",
+      "date": "2026/04/09",
+      "link": "https://najah.zoom.us/rec/play/cDJgTrT7xUb_RcUBvHLz_C2-yT75QAeAq7xpX-yxs93MtHmKyzVFfSx1KYaJOrplpHXr2zhk0wcnZ-YJ.CJAz84-B5zDhZzig?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FNTdNqwS71Xk2E6Mo4MLzlxKrXyrIZzm_Q1KC10M4TznHOPbxcqQB_q4enstbm141.JMjRH5bpHu7cHlcR"
    },
    {
-      "lecture_number":"31",
-      "title":"No Lecture ",
-      "slides_numbers":"Ch.0 - [00-00]",
-      "date":"2026/04/12",
-      "link":""
+      "lecture_number": "31",
+      "title": "No Lecture",
+      "slides_numbers": "Ch.0 - [00-00]",
+      "date": "2026/04/12",
+      "link": ""
    },
    {
-      "lecture_number":"32",
-      "title":"Ch.4 - Revison (IF) & (ID) + Execute (EX) + Memory Access (MEM) + Write Back (WB) + R-Format MIPS Datapath Example.  ",
-      "slides_numbers":"Ch.4 - Datapath - [16-29]",
-      "date":"2026/04/14",
-      "link":"https://najah.zoom.us/rec/play/56O83GnX36Da6AkcXKFPaiQP204OwjTXe6_8eBv3ks07j2KaFNqvKJFVSSqUlVNP57r6Ub8ecRCObedC.48kzXd04lXQT7fS0?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2F-V3-L5iu7H7NPVdb6fvZpeLg6l_pFOJqx1B6fNrV8IY7l3_nGSlcJX6guYAd3JkO.wRJfPnfcAypVI-1K"
+      "lecture_number": "32",
+      "title": "Ch.4 - MIPS Instruction Stages + IF + ID + EX + MEM + WB + R-Format Datapath",
+      "slides_numbers": "Ch.4 - Datapath - [16-29]",
+      "date": "2026/04/14",
+      "link": "https://najah.zoom.us/rec/play/56O83GnX36Da6AkcXKFPaiQP204OwjTXe6_8eBv3ks07j2KaFNqvKJFVSSqUlVNP57r6Ub8ecRCObedC.48kzXd04lXQT7fS0?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2F-V3-L5iu7H7NPVdb6fvZpeLg6l_pFOJqx1B6fNrV8IY7l3_nGSlcJX6guYAd3JkO.wRJfPnfcAypVI-1K"
    },
    {
-      "lecture_number":"33",
-      "title":"Ch.4 - Revison R-Format MIPS Datapath Example + MIPS I-format MIPS Examples",
-      "slides_numbers":"Ch.4 - Datapath - [30-42]",
-      "date":"2026/04/16",
-      "link":"https://najah.zoom.us/rec/share/cHPA3tDkt67jm9lt9pPWgwn1k55unGOK1WfAzBYyxlAQK0WStVETtEcKk8SaV6sn.3E10LGH08khEstR_"
+      "lecture_number": "33",
+      "title": "Ch.4 - R-Format Datapath + I-Format MIPS + MIPS Examples",
+      "slides_numbers": "Ch.4 - Datapath - [30-42]",
+      "date": "2026/04/16",
+      "link": "https://najah.zoom.us/rec/share/cHPA3tDkt67jm9lt9pPWgwn1k55unGOK1WfAzBYyxlAQK0WStVETtEcKk8SaV6sn.3E10LGH08khEstR_"
    },
    {
-      "lecture_number":"34",
-      "title":"Ch.4 - Zero Flag + Brnach MIPS Datapath + Jump MIPS Datapath",
-      "slides_numbers":"Ch.4 - Datapath - [31-51]",
-      "date":"2026/04/19",
-      "link":"https://najah.zoom.us/rec/play/kNG4v1bRVXfdti9SN_je1QabeDCQDdrkCc3R8TU9BBTfHBvriOZt82gnaFO3lwj_2lZIgWMe8JDMZ2Db.ceb828v5o_FxJVEp?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FZ6Oncza5ti2fnvuuwD3_i-1XqXJOIvFZ6-FvqCnTJhxNQBPrgaLgh8p-APisZoh7.R6oFUyfqvaq_l5Hp"
+      "lecture_number": "34",
+      "title": "Ch.4 - Zero Flag + Branch & Jump MIPS Datapath",
+      "slides_numbers": "Ch.4 - Datapath - [31-51]",
+      "date": "2026/04/19",
+      "link": "https://najah.zoom.us/rec/play/kNG4v1bRVXfdti9SN_je1QabeDCQDdrkCc3R8TU9BBTfHBvriOZt82gnaFO3lwj_2lZIgWMe8JDMZ2Db.ceb828v5o_FxJVEp?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FZ6Oncza5ti2fnvuuwD3_i-1XqXJOIvFZ6-FvqCnTJhxNQBPrgaLgh8p-APisZoh7.R6oFUyfqvaq_l5Hp"
    },
    {
-      "lecture_number":"35",
-      "title":"Ch.4 - Control Unit + R-Type Instruction MIPS Datapath With Control Signals",
-      "slides_numbers":"Ch.4 - Datapath - [52-63]",
-      "date":"2026/04/21",
-      "link":"https://najah.zoom.us/rec/share/nUfk6P9M8pOqXj8CiJAUTafwP1TUZFWEhJNjaV4pNBWx5hgTDjz6LvPF29zHD4Iq.EMIVxmPaFnLrcM5A"
+      "lecture_number": "35",
+      "title": "Ch.4 - Control Unit + R-Type MIPS Datapath + Control Signals",
+      "slides_numbers": "Ch.4 - Datapath - [52-63]",
+      "date": "2026/04/21",
+      "link": "https://najah.zoom.us/rec/share/nUfk6P9M8pOqXj8CiJAUTafwP1TUZFWEhJNjaV4pNBWx5hgTDjz6LvPF29zHD4Iq.EMIVxmPaFnLrcM5A"
    },
    {
-      "lecture_number":"36",
-      "title":"Ch.4 - I-Type Instruction MIPS Datapath With Control Signals + J-Type Instruction MIPS Datapath With Control Signals",
-      "slides_numbers":"Ch.4 - Datapath - [64-78]",
-      "date":"2026/04/23",
-      "link":"https://najah.zoom.us/rec/play/NQcQT6UkvSAoewrkkSmJWGgKJqWOqrLcBotm1CApQcrupknYmwWlLiFh5FqxO0dViUQIXHvwSQE29-sJ.gQqkNbKFKRAjH60Z?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FvwTPHwV3VYUgJ5HQkQJzowmscITUOqlc4EWcZhIJcAuMKaJaJi2RJ2U38XrFDOn7.fd7mmT9rirqIN9og"
+      "lecture_number": "36",
+      "title": "Ch.4 - I-Type & J-Type MIPS Datapath + Control Signals",
+      "slides_numbers": "Ch.4 - Datapath - [64-78]",
+      "date": "2026/04/23",
+      "link": "https://najah.zoom.us/rec/play/NQcQT6UkvSAoewrkkSmJWGgKJqWOqrLcBotm1CApQcrupknYmwWlLiFh5FqxO0dViUQIXHvwSQE29-sJ.gQqkNbKFKRAjH60Z?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FvwTPHwV3VYUgJ5HQkQJzowmscITUOqlc4EWcZhIJcAuMKaJaJi2RJ2U38XrFDOn7.fd7mmT9rirqIN9og"
    },
    {
-      "lecture_number":"37",
-      "title":"Ch.4 - CPU Design - Single Cycle Datapath + Multi Cycle Datapath + Pipelining",
-      "slides_numbers":"Ch.4 - Pipelining - [01-10]",
-      "date":"2026/04/26",
-      "link":"https://najah.zoom.us/rec/play/nwVBtRfdb_njsQx4YiIVSThiz3sjJ1QNrRhVfzwXai5FfLb_FAIa2vSX0W2zT7ajT133fD961vnWSov1.8trmCl9qtAygGF_D?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FhoYyVxp935GcDEUEF5sdUDjoxmT3lf5_lEIcaJUn_H7jB3o0amKFpOIvOwaNmx3w.Nhot1n25aXBw0YtQ"
+      "lecture_number": "37",
+      "title": "Ch.4 - CPU Design + Single Cycle Datapath + Multi Cycle Datapath + Pipelining",
+      "slides_numbers": "Ch.4 - Pipelining - [01-10]",
+      "date": "2026/04/26",
+      "link": "https://najah.zoom.us/rec/play/nwVBtRfdb_njsQx4YiIVSThiz3sjJ1QNrRhVfzwXai5FfLb_FAIa2vSX0W2zT7ajT133fD961vnWSov1.8trmCl9qtAygGF_D?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FhoYyVxp935GcDEUEF5sdUDjoxmT3lf5_lEIcaJUn_H7jB3o0amKFpOIvOwaNmx3w.Nhot1n25aXBw0YtQ"
    },
    {
-      "lecture_number":"38",
-      "title":"Ch.4 - Pipelining - Lundry Analogy + Pipelining SpeedUP + Pipeline Performance + Intoduction To Hazards + Data Hazards + 2 Solutions For Data Hazards.",
-      "slides_numbers":"Ch.4 - Pipelining - [11-24]",
-      "date":"2026/04/28",
-      "link":"https://najah.zoom.us/rec/share/EcnHaPtsnamvqS09Y6nJv9GbLfcPYlfIm_lqSCbbviQU16IslFuCXLBhkbtCDs0c.xJToLzNOQXRtxp2g"
+      "lecture_number": "38",
+      "title": "Ch.4 - Pipelining + Speedup & Performance + Hazards + Data Hazard Solutions",
+      "slides_numbers": "Ch.4 - Pipelining - [11-24]",
+      "date": "2026/04/28",
+      "link": "https://najah.zoom.us/rec/share/EcnHaPtsnamvqS09Y6nJv9GbLfcPYlfIm_lqSCbbviQU16IslFuCXLBhkbtCDs0c.xJToLzNOQXRtxp2g"
    },
    {
-      "lecture_number":"39",
-      "title":"Ch.4 - Pipelining - Control Hazards + Structural Hazards + Solutions For Control Hazards + Solutions For Structural Hazards + Revison For Pipelining.",
-      "slides_numbers":"Ch.4 - Pipelining - [25-35]",
-      "date":"2026/04/30",
-      "link":"https://najah.zoom.us/rec/share/1CBuD7QDfZRSjWdGvxllLRazT4Puk4Gt8quQ8SgGsqn65aCXg_xFIH2jSgETB4ii.X4AMdd7HEDFntJq7"
+      "lecture_number": "39",
+      "title": "Ch.4 - Pipelining + Control & Structural Hazards + Hazard Solutions + Revision",
+      "slides_numbers": "Ch.4 - Pipelining - [25-35]",
+      "date": "2026/04/30",
+      "link": "https://najah.zoom.us/rec/share/1CBuD7QDfZRSjWdGvxllLRazT4Puk4Gt8quQ8SgGsqn65aCXg_xFIH2jSgETB4ii.X4AMdd7HEDFntJq7"
    },
    {
-      "lecture_number":"40",
-      "title":"Ch.5 - Memory Hierarchy + Cache Memory + Principle of Locality",
-      "slides_numbers":"Ch.5 - [01-08]",
-      "date":"2026/05/03",
-      "link":"https://najah.zoom.us/rec/play/R4hv9vDJn-7fbbExSPxJBa3z7C5GRLn9No-vkQbTYAyw2VmlCTjNC4LZ5vbo5K-NpyVmyHs3gPE6LzWn.xHsBA2lRDtkL7uFk?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FY3HOtTTvI5r-sdkLuAGgKUJX-bqZ8WWR9R2fu05J3-_2pNA-M4M8wk7C6SHS207z.to1O7PosJjIuX78e"
+      "lecture_number": "40",
+      "title": "Ch.5 - Memory Hierarchy + Cache Memory + Principle of Locality",
+      "slides_numbers": "Ch.5 - [01-08]",
+      "date": "2026/05/03",
+      "link": "https://najah.zoom.us/rec/play/R4hv9vDJn-7fbbExSPxJBa3z7C5GRLn9No-vkQbTYAyw2VmlCTjNC4LZ5vbo5K-NpyVmyHs3gPE6LzWn.xHsBA2lRDtkL7uFk?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FY3HOtTTvI5r-sdkLuAGgKUJX-bqZ8WWR9R2fu05J3-_2pNA-M4M8wk7C6SHS207z.to1O7PosJjIuX78e"
    },
    {
-      "lecture_number":"41",
-      "title":"Ch.5 - Cache Interface + Cache Opreations + Structure Of Main Memory System. + Structure Of Cache Memory System.",
-      "slides_numbers":"Ch.5 - [09-21]",
-      "date":"2026/05/05",
-      "link":"https://najah.zoom.us/rec/play/AL8gHaWQXOhx5emj2NyRFrF4EBha6H7UOX1_BK-66caZVns7p63tI3fkEkp7CE4PG1BREaEclxP8XKr1.b-rux60LA8qE0haM?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FEWaRhBKtZCEgfQjVHc34JoJZJEABPsuYQ8Bwf3tVwNC8bh2VsgYQf_4MEUIJWmmt.QIrC6wNXXZVa7lft"
+      "lecture_number": "41",
+      "title": "Ch.5 - Cache Interface & Operations + Main Memory & Cache Structure",
+      "slides_numbers": "Ch.5 - [09-21]",
+      "date": "2026/05/05",
+      "link": "https://najah.zoom.us/rec/play/AL8gHaWQXOhx5emj2NyRFrF4EBha6H7UOX1_BK-66caZVns7p63tI3fkEkp7CE4PG1BREaEclxP8XKr1.b-rux60LA8qE0haM?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FEWaRhBKtZCEgfQjVHc34JoJZJEABPsuYQ8Bwf3tVwNC8bh2VsgYQf_4MEUIJWmmt.QIrC6wNXXZVa7lft"
    },
    {
-      "lecture_number":"42",
-      "title":"Ch.5 - Cache Mapping Methids + Direct Mapping Method + Example...",
-      "slides_numbers":"Ch.5 - [22-31]",
-      "date":"2026/05/07",
-      "link":"https://najah.zoom.us/rec/play/u1QlXo9W1HCYh9lJ0MJ9DpD19It3wLdDsB49dP10HD4AYktTIVAum-e2BFxZ8XE-OuMWlHiYo7floLt2.PlrCeHh0okFXvE_G?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FySx3jQkzmJ6HJsTpwSxUd20DNyCtNyeZ8gBitluTI9pAOv3f1xKraGmx-aYtakmR.Yi1-6sTMukYkLfzJ"
+      "lecture_number": "42",
+      "title": "Ch.5 - Cache Mapping Methods + Direct Mapping Method + Example",
+      "slides_numbers": "Ch.5 - [22-31]",
+      "date": "2026/05/07",
+      "link": "https://najah.zoom.us/rec/play/u1QlXo9W1HCYh9lJ0MJ9DpD19It3wLdDsB49dP10HD4AYktTIVAum-e2BFxZ8XE-OuMWlHiYo7floLt2.PlrCeHh0okFXvE_G?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FySx3jQkzmJ6HJsTpwSxUd20DNyCtNyeZ8gBitluTI9pAOv3f1xKraGmx-aYtakmR.Yi1-6sTMukYkLfzJ"
    },
    {
-      "lecture_number":"43",
-      "title":"Ch.5 - More Examples For Cache Mapping Method.",
-      "slides_numbers":"Ch.5 - [32-42]",
-      "date":"2026/05/10",
-      "link":"https://najah.zoom.us/rec/play/FKij00FDRvql_xYxtyLxBz0pw12lKBqNji0J5jGh9OtxW0BapeIwrC70UT0liNqWzdotwSlj6rqE1Va_.hZDBeEfYrArpQJGD?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FMEyfmZyJvusieyrw9rd8lVh-0S4u4biDKyHpl472tO0lnD1JV7iMPX-I46_1xtmj.MM87M9-FkGAIxFO9"
+      "lecture_number": "43",
+      "title": "Ch.5 - More Examples For Cache Mapping Method",
+      "slides_numbers": "Ch.5 - [32-42]",
+      "date": "2026/05/10",
+      "link": "https://najah.zoom.us/rec/play/FKij00FDRvql_xYxtyLxBz0pw12lKBqNji0J5jGh9OtxW0BapeIwrC70UT0liNqWzdotwSlj6rqE1Va_.hZDBeEfYrArpQJGD?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FMEyfmZyJvusieyrw9rd8lVh-0S4u4biDKyHpl472tO0lnD1JV7iMPX-I46_1xtmj.MM87M9-FkGAIxFO9"
    },
    {
-      "lecture_number":"44",
-      "title":"Ch.5 - Associatve Mapping + Fully Associative Mapping + Set Associative Mapping + Examples.",
-      "slides_numbers":"Ch.5 - [43-60]",
-      "date":"2026/05/12",
-      "link":"https://najah.zoom.us/rec/play/pb-h0BZQu4krPvylGxjmDiVC6Os2S9AxD45Tngnl9lJZzUy--Wm--ewcUPsOMdP_a-bKHQn0jgBrz4iH.3o7aO1MS5fen53vZ?accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2F9cS8Jo2DpYp8yPk_Ki3mFt2SHDMKHOUfIRX-v1tDW9WVdPruq6w4XlVcdy8r1GKc.gjEN8EjRj9MgCjav"
+      "lecture_number": "44",
+      "title": "Ch.5 - Associative Mapping + Fully Associative Mapping + Set Associative Mapping + Examples",
+      "slides_numbers": "Ch.5 - [43-60]",
+      "date": "2026/05/12",
+      "link": "https://najah.zoom.us/rec/play/pb-h0BZQu4krPvylGxjmDiVC6Os2S9AxD45Tngnl9lJZzUy--Wm--ewcUPsOMdP_a-bKHQn0jgBrz4iH.3o7aO1MS5fen53vZ?accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2F9cS8Jo2DpYp8yPk_Ki3mFt2SHDMKHOUfIRX-v1tDW9WVdPruq6w4XlVcdy8r1GKc.gjEN8EjRj9MgCjav"
    },
    {
-      "lecture_number":"45",
-      "title":"Ch.5 - More Examples + Line Replacement Algorithms + Write Policy. ",
-      "slides_numbers":"Ch.5 - [61-76]",
-      "date":"2026/05/14",
-      "link":"https://najah.zoom.us/rec/share/zUYgEi-Vjx8byTLes8cabwW7S5qdoNyEijTmP_wrtnbQYTqQWj_DeF0ieukGchWT.sUoi55g4FQ0MgTX5"
+      "lecture_number": "45",
+      "title": "Ch.5 - More Examples + Line Replacement Algorithms + Write Policy",
+      "slides_numbers": "Ch.5 - [61-76]",
+      "date": "2026/05/14",
+      "link": "https://najah.zoom.us/rec/share/zUYgEi-Vjx8byTLes8cabwW7S5qdoNyEijTmP_wrtnbQYTqQWj_DeF0ieukGchWT.sUoi55g4FQ0MgTX5"
    },
    {
-      "lecture_number":"46",
-      "title":"Ch.5 - Block Size +  Semester Successfully Completed.",
-      "slides_numbers":"Ch.5 - [77-81]",
-      "date":"2026/05/17",
-      "link":"https://najah.zoom.us/rec/play/FbqTdfEuQ-afh8abOitCKOjF9ApgZBE-XnD681w6CYWV7_cEcgYZMtByxUWF1adzq0IEA-vp_3_gonn3.cEpw4GZ3FgiKHo3d?accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FghIdftCUSjk-eukxXqvDxUI2ucrhBBBqieozmPHmvI4OAxl8MYiaweWM8AKLZ670.gh39ouRr32amQ6DK"
+      "lecture_number": "46",
+      "title": "Ch.5 - Block Size + Semester Successfully Completed",
+      "slides_numbers": "Ch.5 - [77-81]",
+      "date": "2026/05/17",
+      "link": "https://najah.zoom.us/rec/play/FbqTdfEuQ-afh8abOitCKOjF9ApgZBE-XnD681w6CYWV7_cEcgYZMtByxUWF1adzq0IEA-vp_3_gonn3.cEpw4GZ3FgiKHo3d?accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FghIdftCUSjk-eukxXqvDxUI2ucrhBBBqieozmPHmvI4OAxl8MYiaweWM8AKLZ670.gh39ouRr32amQ6DK"
    },
    {
-      "lecture_number":"47",
-      "title":"No Lecture — Semester Successfully Completed",
-      "slides_numbers":"Ch.0 - [00-00]",
-      "date":"2026/05/19",
-      "link":""
+      "lecture_number": "47",
+      "title": "No Lecture Semester Successfully Completed",
+      "slides_numbers": "Ch.0 - [00-00]",
+      "date": "2026/05/19",
+      "link": ""
    },
    {
-      "lecture_number":"48",
-      "title":"No Lecture — Semester Successfully Completed",
-      "slides_numbers":"Ch.0 - [00-00]",
-      "date":"2026/05/21",
-      "link":""
+      "lecture_number": "48",
+      "title": "No Lecture Semester Successfully Completed",
+      "slides_numbers": "Ch.0 - [00-00]",
+      "date": "2026/05/21",
+      "link": ""
    }
 ]
