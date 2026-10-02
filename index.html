@@ -11,24 +11,21 @@
   <link
     href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800;900&family=Nunito:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;600;700&display=swap"
     rel="stylesheet" />
-        <link rel="icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3FBYS25_R4mi8JB-zTHfVfymTfnUjZjHsDw&s" type="image/x-icon">
-
+  <link rel="icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3FBYS25_R4mi8JB-zTHfVfymTfnUjZjHsDw&s"
+    type="image/x-icon" />
   <link rel="stylesheet" href="./styles/style.css" />
 </head>
 
 <body>
-  <!-- Binary Rain Background Canvas -->
   <canvas id="binary-canvas"></canvas>
-  <div class="page-wrapper" id="header">
+
+  <div class="page-wrapper">
     <div class="floating-nav">
       <button class="nav-btn" onclick="window.scrollTo({ top: 0, behavior: 'smooth' })" title="Back to Top">
         <i class="fa-solid fa-chevron-up"></i>
       </button>
-      <button class="nav-btn" onclick="
-            document
-              .getElementById('bottom')
-              .scrollIntoView({ behavior: 'smooth' })
-          " title="Go to Bottom">
+      <button class="nav-btn" onclick="document.getElementById('bottom').scrollIntoView({ behavior: 'smooth' })"
+        title="Go to Bottom">
         <i class="fa-solid fa-chevron-down"></i>
       </button>
     </div>
@@ -41,23 +38,32 @@
             <h1 class="hero-title">Computer Architecture Lectures</h1>
             <i class="fa-solid fa-laptop-code hero-icon"></i>
           </div>
-          <p class="hero-subtitle">
-            Dr. Manar Arafat &mdash; Second Semester 2026
+
+          <p class="hero-subtitle">Dr. Manar Arafat &mdash; Second Semester 2026</p>
+
+          <p class="hero-byline">
+            By <a target="_blank" rel="noopener" href="https://github.com/ahmadessawii06">Ahmad Essawii</a>
           </p>
-          <p class="hero-byline">By <a target="_blank" href="https://github.com/ahmadessawii06">Ahmad Essawii</a></p>
+
           <div class="hero-actions">
-            <div class="hero-badge" id="total-lectures">Loading...</div>
-            <a href="https://drive.google.com/drive/folders/1Nu-V8_5ODgDpgVkBrkpNK0esHLSWMZ2d" target="_blank" class="hero-btn">
+            <a href="https://drive.google.com/drive/folders/1Nu-V8_5ODgDpgVkBrkpNK0esHLSWMZ2d" target="_blank"
+              rel="noopener" class="hero-btn">
               <i class="fa-solid fa-file-powerpoint sec-btn"></i>
               View All Slides
             </a>
-          
+
+            <div class="hero-badge" id="total-lectures">Loading...</div>
+
+            <a href="https://drive.google.com/drive/folders/1G--4uGDhh1WgEwWu-6UOdRx3ucfI4iSg?usp=sharing"
+              target="_blank" rel="noopener" class="hero-btn">
+              <i class="fa-brands fa-google-drive sec-btn"></i>
+              View All Lectures
+            </a>
           </div>
         </div>
       </section>
 
       <div class="weeks-container" id="weeks-container"></div>
-
       <div class="bottom-spacer" id="bottom"></div>
     </main>
   </div>
