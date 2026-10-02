@@ -514,3 +514,42 @@ div.watch-btn--holiday {
     right: 1rem;
   }
 }
+
+
+.lecture-card--holiday {
+  border-color: #000;
+  opacity: 1;
+  background-color: #fff9f0;
+}
+
+.lecture-num-badge--holiday {
+  background-color: #f97316;
+  color: #000;
+}
+
+.watch-btn--holiday {
+  background-color: #f97316;
+  color: #000;
+  box-shadow: 0 2px 8px rgba(249, 115, 22, 0.3);
+}
+
+.watch-btn--holiday:hover {
+  background-color: #ea580c;
+  box-shadow: 0 4px 12px rgba(249, 115, 22, 0.4);
+}
+
+.nav-btn {
+  width: 2.2rem;
+  height: 2.2rem;
+  margin-right: 0;
+  box-shadow: 3px 3px 0 #000;
+}
+
+.nav-btn:hover {
+  box-shadow: 1px 1px 0 #000;
+}
+
+.nav-btn:active {
+  box-shadow: 0 0 0 #000;
+}
+
