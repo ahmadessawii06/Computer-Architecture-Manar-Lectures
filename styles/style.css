@@ -553,3 +553,58 @@ div.watch-btn--holiday {
   box-shadow: 0 0 0 #000;
 }
 
+
+.floating-nav {
+  top: 50%;
+  bottom: auto;
+  right: 0.25rem;
+  transform: translateY(-45%);
+  gap: 0.5rem;
+}
+
+.nav-btn {
+  width: 1.7rem;
+  height: 1.7rem;
+  font-size: 0.85rem;
+  box-shadow: none;
+}
+
+.nav-btn:hover,
+.nav-btn:active {
+  transform: none;
+  box-shadow: none;
+  background-color: var(--primary-dim);
+}
+
+@media (max-width: 767px) {
+  .floating-nav {
+    top: auto;
+    bottom: 1rem;
+    right: 0.5rem;
+    transform: none;
+  }
+
+  .nav-btn {
+    width: 2rem;
+    height: 2rem;
+    font-size: 1rem;
+    box-shadow: 2px 2px 0 #000;
+  }
+
+  .nav-btn + .nav-btn {
+    display: none;
+  }
+}
+
+@media (max-width: 767px) {
+  .floating-nav {
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease;
+  }
+
+  .floating-nav.show {
+    opacity: 1;
+    pointer-events: auto;
+  }
+}

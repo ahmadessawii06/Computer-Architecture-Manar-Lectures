@@ -134,3 +134,10 @@ document.addEventListener('DOMContentLoaded', () => {
       container.innerHTML = `<div style="text-align:center; padding: 2rem; color: red;">Error loading lectures. Please check if data/data.json exists.</div>`;
     });
 });
+
+const floatingNav = document.querySelector('.floating-nav');
+if (floatingNav) {
+  window.addEventListener('scroll', () => {
+    floatingNav.classList.toggle('show', window.scrollY > 150);
+  });
+}
