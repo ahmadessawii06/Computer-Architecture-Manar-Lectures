@@ -2,7 +2,7 @@
 
 # 🖥️ Computer Architecture Manar Lectures
 
-**All lectures, slides, recordings, notes, and course materials organized by week, all in one clean, simple, and easy-to-navigate place.**
+**All lectures, slides, recordings, and notes organized by week in one clean place.**
 
 👩‍🏫 Dr. Manar Arafat &nbsp;•&nbsp; 📅 Second Semester 2026 &nbsp;•&nbsp; 👨‍💻 By Ahmad Essawii
 
