@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-# 🖥️ Computer Architecture Lectures
+# 🖥️ Computer Architecture Manar Lectures
 
 **All lectures, slides, and recordings organized by week, in one clean place.**
 
