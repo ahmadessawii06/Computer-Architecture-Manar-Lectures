@@ -2,16 +2,20 @@
 
 # 🖥️ Computer Architecture Manar Lectures
 
-**All lectures, slides, and recordings organized by week, in one clean place.**
+**All lectures, slides, recordings, notes, and course materials organized by week, all in one clean, simple, and easy-to-navigate place.**
 
-👩‍🏫 Dr. Manar Arafat &nbsp;•&nbsp; 📅 Second Semester 2026
+👩‍🏫 Dr. Manar Arafat &nbsp;•&nbsp; 📅 Second Semester 2026 &nbsp;•&nbsp; 👨‍💻 By Ahmad Essawii
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222?style=for-the-badge&logo=github&logoColor=white)
 
-### [🚀 Live Demo](https://ahmadessawii06.github.io/Computer-Architecture-Manar-Lectures/)
+### 🚀 Live Demo
+> Explore the course website and access all lectures, slides, and recordings organized by week.
+
+[![Live Demo](https://img.shields.io/badge/%20Live%20Demo-Visit%20Website-18181B?style=for-the-badge)](https://ahmadessawii06.github.io/Computer-Architecture-Manar-Lectures/)
+
 
 ![Demo](./assets/demo.png)
 
